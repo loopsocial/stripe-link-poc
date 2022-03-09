@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.006de8ad.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.006de8ad.js.map": "/react-gh-pages/static/js/main.006de8ad.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/stripe-link-poc/static/css/main.073c9b0a.css",
+    "main.js": "/stripe-link-poc/static/js/main.30aafd86.js",
+    "static/js/787.28cb0dcd.chunk.js": "/stripe-link-poc/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/stripe-link-poc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/stripe-link-poc/index.html",
+    "main.073c9b0a.css.map": "/stripe-link-poc/static/css/main.073c9b0a.css.map",
+    "main.30aafd86.js.map": "/stripe-link-poc/static/js/main.30aafd86.js.map",
+    "787.28cb0dcd.chunk.js.map": "/stripe-link-poc/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.006de8ad.js"
+    "static/js/main.30aafd86.js"
   ]
 }
